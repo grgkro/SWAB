@@ -1,5 +1,7 @@
 # Schwabendollar
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69bdd83e-bb40-4904-bd3d-dc5f22222d63/deploy-status)](https://app.netlify.com/sites/schwabendollar/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
